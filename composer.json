@@ -26,9 +26,9 @@
             "title": "External Links",
             "category": "",
             "icon": {
-                "name": "",
-                "color": "",
-                "backgroundColor": ""
+                "name": "fas fa-solid fa-square-up-right",
+                "color": "#222222",
+                "backgroundColor": "#fab005"
             }
         },
         "flarum-cli": {
